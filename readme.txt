@@ -5,3 +5,4 @@ hhehe
 
 Aku suka musik
 aku suka denger musik jazz
+tapi aku juga denger genre musik-musik lain kok
