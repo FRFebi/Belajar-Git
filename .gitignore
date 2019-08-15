@@ -2,3 +2,5 @@
 private/
 #ignore folder secret in build
 build/
+
+status.txt
