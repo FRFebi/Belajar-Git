@@ -1,5 +1,4 @@
 #ignore private folder private
 private/
-
 #ignore folder secret in build
-build/secret/
+build/
