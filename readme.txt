@@ -6,3 +6,4 @@ hhehe
 Aku suka musik
 aku suka denger musik jazz
 tapi aku juga denger genre musik-musik lain kok
+aku suka jazz karna musik nya enak di denger aja
