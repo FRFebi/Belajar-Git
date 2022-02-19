@@ -4,7 +4,7 @@ private/
 
 status.txt
 
-hello.txt
+./hello.txt
 
 build/*
 
