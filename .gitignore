@@ -9,3 +9,5 @@ status.txt
 build/*
 
 !build/app
+
+readme.txt
